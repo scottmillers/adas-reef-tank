@@ -5,7 +5,7 @@ We are trying to grow Small Polyp Stony corals in our salt-water aquarium.  To k
 These how-to guides are for anyone who needs to takes care of the tank.
 
 1. [Using the Apex Funsion app](apex-fusion-app.md)
-2. Feeding
+2. [Feeding](feeding.md)
 2. Cleaning the skimmer
 3. Replacing the Klir filter sock
 4. Mixing the salt water for a water change
