@@ -1,13 +1,13 @@
-# How to Guide to take care of our Saltware Aquarium
+# How to take care of our Saltware Aquarium
 
-We are trying to grow Small Polyp Stony corals in our salt-water aquarium.  To keep them alive and happy is difficult.  We are learning and improving our understanding of what are the right conditions to be successful.  
+We have a 160 gallon reef tank.  We grow Small Polyp Stony corals.  We are learning and improving our understanding of what are the right conditions to be successful.  
 
-These how-to guides are for anyone who needs to takes care of the tank.
+These how-to guides are for anyone who needs to takes care of our tank.
 
 1. [Using the Apex Funsion app](apex-fusion-app.md)
 2. [Feeding](feeding.md)
-2. Cleaning the skimmer
-3. Replacing the Klir filter sock
-4. Mixing the salt water for a water change
-5. Replacing the the RODI filters
-6. Verifying good flow
+3. [Cleaning the skimmer](skimmer.md)
+4. Mixing new salt water
+5. Replacing the Klir filter sock
+6. Replacing the the RODI filters
+7. Verifying good flow

@@ -10,11 +10,10 @@ Here are the steps to feed:
 
 1. Turn off the equipment
 
-    Hit the Feed Cycle A button in the Apex fusion application.  See the Apex Fusion guide for more details.
+    Hit the Feed Cycle A button in the Apex fusion application.  See the [Apex Fusion guide](apex-fusion-app.md) for more details.
 
 2. Put a piece of Nori in the clip
 
 
-
-3. Put the frozen food in the dispencer
+3. Get 1 or 2 frozen cubes from the frezer and put them in the dispensing cup to melt. As it thaws shake it across the tank to disperse.
 

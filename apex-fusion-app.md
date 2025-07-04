@@ -9,7 +9,7 @@ When you login and open it you will get this screen.
 
 ## Feeding
 
-When you need to feed you hit the Feed Cycle A button.  That will turn off all the equipment for 15 minutes.  After the cycle is over all equipment will be automatically turned on. 
+When you need to feed you hit the Feed Cycle A button.  That will turn off all the equipment for 15 minutes.  After the cycle is over all equipment will be automatically turned on again. 
 
 ## Apex Measurements
 
@@ -19,7 +19,7 @@ The Trident is a device that uses a solution which measures the Alkalinity, Calc
 
 It is not accurate.  I compare the Trident to other measurements and then figure out the offset.  
 
-The range I want is
+Our target range is
 
 - ALK 8-8.5
 - CA 400-450
@@ -29,21 +29,21 @@ These ranges allow for fluctiations outside the range.
 
 ## Pump
 
-The Pump is a Cor-20.  To turn it off you use the switch.  The Pump is a key element of the tank that ensures good flow.
+The Pump is a Cor-20.  To turn it off you use the COR_10_1 switch.  
 
 ## Water Changes
 
-![alt text](image-2.png)
+![alt text](image-7.png)
 
 I change 10% of the tank water volume each week.
 
-Water changes are daily and automatic.  .  Each day starting at 13:00 the pumps start adding and removing water. You will hear the pump running.  The pump does not run constantly but changes the water in increments.
+Water changes are automatic. Each day starting at 13:00 the pumps start adding and removing water. You will hear the pump running.  The pump does not run constantly but changes the water in increments.
 
-You will see the volume of water changed in the pump screen.  It is currently empty because i need to mix a new batch of salt.
+You will see the volume of water changed in the DOS_ADD_WTR and the DOS_REM_WTR screen.  
 
-When the 
+When you want the water changes to stop you use the DOS_ADD_WTR and the DOS_REM_WTR switches.  
 
-come back to this
+
 
 ## Dosing
 
