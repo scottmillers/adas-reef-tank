@@ -7,7 +7,7 @@ These how-to guides are for anyone who needs to takes care of our tank.
 1. [Using the Apex Funsion app](apex-fusion-app.md)
 2. [Feeding](feeding.md)
 3. [Cleaning the skimmer](skimmer.md)
-4. Mixing new salt water
+4. [Mixing salt water](mix-salt-water.md)
 5. Replacing the Klir filter sock
 6. Replacing the the RODI filters
 7. Verifying good flow
